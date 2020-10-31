@@ -8,7 +8,7 @@ setup(
     # 배포할 패키지에 대한 설명을 작성합니다.
     description='Varplus is a better way to use variables in python',
     # 배포하는 사람의 이름을 작성합니다.
-    author='Kim_myeong_jun',
+    author='HILLASEN',
     # 배포하는 사람의 메일주소를 작성합니다.
     author_email='admin@hillasen.com',
     # 배포하는 패키지의 url을 적어줍니다. 보통 github 링크를 적습니다.
