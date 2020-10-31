@@ -23,7 +23,7 @@ print(vb.isDeclared("test")) #It will print False
 
 vb.setVariable(name="test_2", value=1, rule={'noNone' : False, 'variableType' : 'int',  'isConst' : False})
 print(vb.getValue("test_2")) #It will print 1
-print(vb.isDeclared("test")) #It will print True
+print(vb.isDeclared("test_2")) #It will print True
 vb.modifyValue("test_2", "Hello World!") #You will get error, because test_2 variable data type is int not a string
 vb.clearVariable("test_2")
 
