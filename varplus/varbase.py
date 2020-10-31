@@ -1,4 +1,4 @@
-import varplus_dev.varrules as vrule
+import varplus.varrules as vrule
 var = list() #List to save data of variables
 idx = list() #List to save index of variables in var list
 
